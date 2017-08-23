@@ -11,6 +11,11 @@ Students should be able to do the following at the end of the module.
   6. Making a website live through Github. 
 
 Define the following terms. In your Google Site
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol> 
 HTML
 XMHL
 URL
