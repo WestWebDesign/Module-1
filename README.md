@@ -10,5 +10,14 @@ Students should be able to do the following at the end of the module.
   5. Insert Images, headers, columns, and paragraphs. 
   6. Making a website live through Github. 
 
-
-
+Define the following terms. In your Google Site
+HTML
+XMHL
+URL
+WWW
+HTTP
+ASP
+ISP
+Intranet 
+Internet
+e-commerce
