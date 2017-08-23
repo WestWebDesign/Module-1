@@ -25,4 +25,4 @@ Define the following terms. In your Google Site
 </ol> 
 
 
-
+<img src="webDesign1Rubric.PNG" alt="Mountain View" style="width:304px;height:228px;">
