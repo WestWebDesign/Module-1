@@ -9,3 +9,6 @@ Students should be able to do the following at the end of the module.
   4. Creating a simple web page with pictures and content. 
   5. Insert Images, headers, columns, and paragraphs. 
   6. Making a website live through Github. 
+
+
+
