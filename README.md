@@ -12,17 +12,17 @@ Students should be able to do the following at the end of the module.
 
 Define the following terms. In your Google Site
 <ol>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>HTML</li>
+  <li>XMHL</li>
+  <li>URL</li>
+  <li> WWW</li>
+ <li>HTTP</li>
+ <li>ASP</li>
+ <li>ISP</li>
+ <li>Intranet </li>
+ <li>Internet</li>
+ <li>e-commerce</li>
 </ol> 
-HTML
-XMHL
-URL
-WWW
-HTTP
-ASP
-ISP
-Intranet 
-Internet
-e-commerce
+
+
+
