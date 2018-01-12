@@ -5,7 +5,8 @@
 
 This unit will give you a basic understanding of core design principles that apply to web design and development. It will help you to establish criteria for evaluating the quality of websites, introduce you to color theory and web design standards, and introduce you to the site planning concepts of developing a site plan.
 
-
+<a href="https://sites.google.com/davenport.k12.ia.us/brosius-portfolio-1/web-design/module-1/lesson-1-surveying-the-possibilities">Lesson 1 </a>
+<a href="https://sites.google.com/davenport.k12.ia.us/brosius-portfolio-1/web-design/module-1/lesson-2-developing-a-website-evaluation-tool">Lesson 2 </a>
 Students should be able to do the following at the end of the module.
   1. Create a Github account and explain how to create a repository
   2. How to create a web page using Atom
