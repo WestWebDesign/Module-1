@@ -1,6 +1,10 @@
 # Module 1
 <h3>Introduction into Web Design</h3>
 
+<h3>Objective</h3>
+
+This unit will give you a basic understanding of core design principles that apply to web design and development. It will help you to establish criteria for evaluating the quality of websites, introduce you to color theory and web design standards, and introduce you to the site planning concepts of developing a site plan.
+
 
 Students should be able to do the following at the end of the module.
   1. Create a Github account and explain how to create a repository
@@ -11,19 +15,6 @@ Students should be able to do the following at the end of the module.
   6. Making a website live through Github. 
   
 
-Define the following terms. In your Google Site
-<ol>
-  <li>HTML</li>
-  <li>XMHL</li>
-  <li>URL</li>
-  <li> WWW</li>
- <li>HTTP</li>
- <li>ASP</li>
- <li>ISP</li>
- <li>Intranet </li>
- <li>Internet</li>
- <li>e-commerce</li>
-</ol> 
 
 
 <img src="webDesign1Rubric.PNG" alt="Rubric Picture" style="width:304px;height:228px;">
